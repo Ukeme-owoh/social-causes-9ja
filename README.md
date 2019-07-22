@@ -1,0 +1,2 @@
+# social-causes-9ja
+A detailed repository of all social cause groups - i.e. NGOs, Social Enterprises, Foundations, etc. - in Nigeria. There are two goals in mind: first, we want every nigerian to belong to a social impact group (it's a hallmark of true citizenship); second, we want to minimize duplicity of efforts (there's no need to create another group if there is a solid social impact project that, already existing, captures your interests and passions.
